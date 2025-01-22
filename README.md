@@ -4,18 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F5FF&center=true&vCenter=true&width=450&lines=Hello,+I'm+Ruey!" alt="Typing Animation">
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+Robotics Engineer | Computer Vision | Embedded Systems
 
----
-
-## 🌌 About Me  
-
-```yaml
-name: Ruey
-title: Robotics Engineer
-focus: "Computer Vision, Embedded Systems"
-interests: ["Computer Vision", "Embedded Systems"]
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruey-Day&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact&theme=tokyonight" />
+</a>
