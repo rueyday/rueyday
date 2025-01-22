@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F5FF&center=true&vCenter=true&width=450&lines=Hello,+I'm+Ruey!+🤖;Futuristic+Tech+Explorer!+🚀" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F5FF&center=true&vCenter=true&width=450&lines=Hello,+I'm+Ruey!" alt="Typing Animation">
 </h1>
 
 <p align="center">
