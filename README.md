@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F5FF&center=true&vCenter=true&width=450&lines=Hello,+I'm+Ruey!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=0000FF&center=true&vCenter=true&width=450&lines=Hello,+I'm+Ruey!" alt="Typing Animation">
 </h1>
 
 <div align="center" style="background: linear-gradient(135deg, #0f0f0f 0%, #1a1a2e 100%), url('https://www.transparenttextures.com/patterns/hexellence.png'); padding: 20px; border-radius: 10px; color: #c9d1d9; font-family: 'Fira Code', monospace;">
 
 <h2 style="color: #00F5FF;">Robotics Engineer | Computer Vision | Embedded Systems</h2>
 
-### 🛠️ Tech Stack
+## Tech Stack
 
 #### Languages
 
@@ -34,8 +34,8 @@
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6600?style=for-the-badge)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruey-Day&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact&theme=tokyonight" />
-</a>
+## Stats
+[![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruey-Day&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact)]([https://git.io/streak-stats](https://github.com/anuraghazra/github-readme-stats"))
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ruey-Day&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 </div>
