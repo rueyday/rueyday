@@ -35,7 +35,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## Stats
-[![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruey-Day&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact)]([https://git.io/streak-stats](https://github.com/anuraghazra/github-readme-stats"))
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ruey-Day&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruey-Day&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Ruey-Day&theme=transparent&hide_border=true)
 
 </div>
