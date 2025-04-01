@@ -23,9 +23,6 @@
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-9C27B0?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Altium](https://img.shields.io/badge/Altium-000000?style=for-the-badge)
-![LTspice](https://img.shields.io/badge/LTspice-FF0000?style=for-the-badge)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6600?style=for-the-badge)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## Stats
