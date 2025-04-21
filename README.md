@@ -24,9 +24,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-1572B6?style=for-the-badge&logo=cmake&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-
-## 🤖 Robotics & Embedded Systems
-
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-9C27B0?style=for-the-badge)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
