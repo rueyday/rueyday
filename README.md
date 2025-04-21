@@ -21,15 +21,12 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-1572B6?style=for-the-badge&logo=cmake&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-9C27B0?style=for-the-badge)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
 ![Odrive](https://img.shields.io/badge/Odrive-0F9D58?style=for-the-badge)
-![RealSense](https://img.shields.io/badge/Intel%20RealSense-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![Software Defined Radio](https://img.shields.io/badge/SDR-FF6F00?style=for-the-badge)
 
 ## 🧠 AI & Machine Learning
 
