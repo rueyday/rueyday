@@ -4,7 +4,7 @@
 
 <div align="center" style="background: linear-gradient(135deg, #0f0f0f 0%, #1a1a2e 100%), url('https://www.transparenttextures.com/patterns/hexellence.png'); padding: 20px; border-radius: 10px; color: #c9d1d9; font-family: 'Fira Code', monospace;">
 
-<h2 style="color: #00F5FF;">🤖 Roboticist | Embedded Systems | Perception | Path Planning</h2>
+<h2 style="color: #00F5FF;"> Roboticist </h2>
 
 ---
 
