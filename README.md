@@ -26,7 +26,6 @@
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-9C27B0?style=for-the-badge)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
-![Odrive](https://img.shields.io/badge/Odrive-0F9D58?style=for-the-badge)
 
 ## 🧠 AI & Machine Learning
 
