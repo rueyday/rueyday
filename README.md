@@ -1,10 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=0000FF&center=true&vCenter=true&width=450&lines=Hello,+I'm+Ruey!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=0000FF&center=true&vCenter=true&width=450&lines=Hello,+I'm+a+roboticist!" alt="Typing Animation">
 </h1>
 
 <div align="center" style="background: linear-gradient(135deg, #0f0f0f 0%, #1a1a2e 100%), url('https://www.transparenttextures.com/patterns/hexellence.png'); padding: 20px; border-radius: 10px; color: #c9d1d9; font-family: 'Fira Code', monospace;">
-
-<h2 style="color: #00F5FF;"> Roboticist </h2>
 
 ---
 
