@@ -4,8 +4,6 @@
 
 <div align="center" style="background: linear-gradient(135deg, #0f0f0f 0%, #1a1a2e 100%), url('https://www.transparenttextures.com/patterns/hexellence.png'); padding: 20px; border-radius: 10px; color: #c9d1d9; font-family: 'Fira Code', monospace;">
 
----
-
 ## 💻 Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -34,8 +32,6 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MacOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
----
 
 ## Stats
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruey-Day&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact&hide_border=true)
