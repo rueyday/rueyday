@@ -17,36 +17,25 @@ A snapshot of the tools and technologies I use most often across robotics, AI, e
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-## 🧰 Libraries & Frameworks
-
-### C / C++
-![Eigen](https://img.shields.io/badge/Eigen-00599C?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Python
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-## 🤖 Robotics & Embedded Systems
-
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-9C27B0?style=for-the-badge)
-![RViz](https://img.shields.io/badge/RViz-4A90E2?style=for-the-badge)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
-
-## 🧠 AI & Machine Learning
+## 🧠 AI & Robotics
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-9C27B0?style=for-the-badge)
+![RViz](https://img.shields.io/badge/RViz-4A90E2?style=for-the-badge)
 
 ## ⚙️ Tools & DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-1572B6?style=for-the-badge&logo=cmake&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-F34B7D?style=for-the-badge&logo=cmake&logoColor=white)
+![Eigen](https://img.shields.io/badge/Eigen-00599C?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## 🛠️ Development Environments
 
@@ -54,7 +43,11 @@ A snapshot of the tools and technologies I use most often across robotics, AI, e
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Stats
+## 🪛 Low-Level Dev
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
+
+# Stats
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruey-Day&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=Ruey-Day&theme=transparent&hide_border=true)
 
