@@ -4,7 +4,7 @@
 
 <div align="center" style="background: linear-gradient(135deg, #0f0f0f 0%, #1a1a2e 100%), url('https://www.transparenttextures.com/patterns/hexellence.png'); padding: 20px; border-radius: 10px; color: #c9d1d9; font-family: 'Fira Code', monospace;">
 
-# 💻 Tech Stack
+# Tech Stack
 
 A snapshot of the tools and technologies I use most often across robotics, AI, embedded systems, and software development.
 
