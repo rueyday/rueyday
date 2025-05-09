@@ -6,8 +6,6 @@
 
 # Tech Stack
 
-A snapshot of the tools and technologies I use most often across robotics, AI, embedded systems, and software development.
-
 ## 💻 Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
