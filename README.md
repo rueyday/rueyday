@@ -40,6 +40,8 @@
 ## 🪛 Low-Level Dev
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
 
 # Stats
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruey-Day&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact&hide_border=true)
