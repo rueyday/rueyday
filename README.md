@@ -30,7 +30,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-1572B6?style=for-the-badge&logo=cmake&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-F34B7D?style=for-the-badge&logo=cmake&logoColor=white)
-![Eigen](https://img.shields.io/badge/Eigen-00599C?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
