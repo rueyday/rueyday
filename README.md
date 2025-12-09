@@ -6,7 +6,7 @@
 
 ## Multi-Modal Robot Perception | Adaptive Control | Hardware-Efficient Learning
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rueyday&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact&hide_border=true)
+![Stats](https://github-readme-stats-navy-rho.vercel.app/api/top-langs/?username=rueyday&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex&layout=compact&hide_border=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rueyday&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 </div>
