@@ -10,3 +10,7 @@
 ![GitHub Streak](https://github-readme-streak-stats-ecru-nine.vercel.app/?user=rueyday&theme=transparent&hide_border=true)
 
 </div>
+<p align="left" style="font-family: 'Fira Code', monospace; margin-top: 20px;">
+  <b>Portfolio:</b> <a href="https://www.ruey.day/projects/index.html">ruey.day/projects</a> <br>
+  <b>Note:</b> My current active research and developments are pinned below.
+</p>
