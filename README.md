@@ -12,5 +12,4 @@
 </div>
 <p align="left" style="font-family: 'Fira Code', monospace; margin-top: 20px;">
   <b>Portfolio:</b> <a href="https://www.ruey.day/projects/index.html">ruey.day/projects</a> <br>
-  <b>Note:</b> My current active projects are pinned below.
 </p>
