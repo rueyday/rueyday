@@ -17,7 +17,7 @@
 </picture> 
   <img 
     align="top"
-    width="43%"
+    width="50%"
     src="https://github-readme-streak-stats-ecru-nine.vercel.app/?user=rueyday&theme=transparent&hide_border=true" alt="GitHub Streak" 
   />
 
