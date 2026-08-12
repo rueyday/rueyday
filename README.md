@@ -4,7 +4,6 @@
 
 <div align="center" style="background: linear-gradient(135deg, #0f0f0f 0%, #1a1a2e 100%), url('https://www.transparenttextures.com/patterns/hexellence.png'); padding: 20px; border-radius: 10px; color: #c9d1d9; font-family: 'Fira Code', monospace; line-height: 0;">
 
-## Robot Perception &nbsp; | &nbsp; Reinforcement Learning &nbsp; | &nbsp; Edge Computing
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
