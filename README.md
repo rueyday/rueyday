@@ -19,8 +19,4 @@
     width="47%"
     src="https://github-readme-streak-stats-ecru-nine.vercel.app/?user=rueyday&theme=transparent&hide_border=true" alt="GitHub Streak" 
   />
-
 </div>
-<p align="left" style="font-family: 'Fira Code', monospace; margin-top: 20px;">
-  <b>Portfolio:</b> <a href="https://www.ruey.day/projects/index.html">ruey.day/projects</a> <br>
-</p>
